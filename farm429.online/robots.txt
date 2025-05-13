@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /authentication/
+Disallow: /api/
+Disallow: /config/
+Disallow: /uploads/
+
+Sitemap: https://farm429.online/sitemap.xml 
